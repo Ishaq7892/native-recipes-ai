@@ -7,6 +7,9 @@ Backend Setup (Python Server)
 5. Run the FastAPI server using: uvicorn app.main:app --reload.
 6. Backend handles WebSocket communication, speech-to-text processing, AI processing, and
 text-to-speech response generation.
+
+
+
 Frontend Setup (React Project)
 1. Install Node.js and npm.
 2. Create a React project using Create React App or Vite.
